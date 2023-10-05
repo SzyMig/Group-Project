@@ -1,7 +1,6 @@
 {
     "private": true,
     "dependencies": {
-        "@vercel/edge": "^0.1.2",
-        "@next" : "^9.5.3"
+        "@vercel/edge": "^0.1.2"
     }
 }
